@@ -1,1 +1,25 @@
+<style>
+.border-CV{
+  width: 1080px;
+  height: 1920px;
 
+  padding: 20px;
+  margin: 10px;
+
+  border: 2px solid black;
+}
+.border-photo{
+    width: 108px;
+  height: 192px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border: 1px solid black;
+}
+.text{
+  color: black;
+  font-size: 22px;
+  font-family: Verdana, Arial, sans-serif;
+}
+</style>
