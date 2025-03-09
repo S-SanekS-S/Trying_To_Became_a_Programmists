@@ -17,6 +17,9 @@
 
   border: 1px solid black;
 }
+.photo{
+  text-align: left;
+}
 .text{
   color: black;
   font-size: 22px;
